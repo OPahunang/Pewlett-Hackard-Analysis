@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-Pewlett-Hackard, a large company employed several hundreds of thousands. The company has been around for a long time , its baby boomers employees begin to retire at a rapid rate. To plan the stability and future of the company, it needs information who are the employees that they can offer retirement package that meets certain criteria and which position needs to be filled in the near future.    
+Pewlett-Hackard, is a large company that is been around for a long time. The company employed several hundreds of thousands. It’s baby boomers’ employees begin to retire at a rapid rate. To plan the stability and future of the company, it needs to assess who are the employees that they can offer retirement package that meets certain criteria and which position needs to be filled in the near future.    
 
 ## Results:
 
@@ -34,8 +34,9 @@ Pewlett-Hackard, a large company employed several hundreds of thousands. The com
 
 ## Summary:
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+A. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+  Total of 72,458 employees are eligible for retirement according to the birth date. Highest on the list 
 ![Total_Eligible_for_Retirement.png](https://github.com/OPahunang/Pewlett-Hackard-Analysis/blob/main/Resources/Total_Eligible_for_Retirement.png)
 
 
