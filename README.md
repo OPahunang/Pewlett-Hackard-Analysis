@@ -36,11 +36,16 @@ Pewlett-Hackard is a large company that is been around for a long time. The comp
 
 A. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-  Total of 72,458 employees are eligible for retirement according to the birth date. Highest on the list 
+  Total of 72,458 employees are eligible for retirement according to the birth date. Highest on the list is the Senior Engineer position a total of 25,916 and the lowest is Manager position with a total on only 2.
+  
+  
 ![Total_Eligible_for_Retirement.png](https://github.com/OPahunang/Pewlett-Hackard-Analysis/blob/main/Resources/Total_Eligible_for_Retirement.png)
 
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+B. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+  Not enough next generation employees to be mentored, with only 1,549 against 72,458 who are eligible for retirement.
+  
+  
 ![Total_Eligible_for_Mentorship.png](https://github.com/OPahunang/Pewlett-Hackard-Analysis/blob/main/Resources/Total_Eligible_for_Mentorship.png)
 
