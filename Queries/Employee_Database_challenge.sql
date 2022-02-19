@@ -63,3 +63,13 @@ AND (employees.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY emp_no;
 
 SELECT * FROM mentorship_eligibility
+
+
+-- Total Employess Eligible for retirement according to birthdate
+SELECT Count (unique_titles.emp_no)
+FROM unique_titles
+
+
+-- Total Employees Eligible for mentorship
+SELECT COUNT (*) 
+FROM mentorship_eligibility
