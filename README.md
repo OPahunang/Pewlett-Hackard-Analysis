@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-Pewlett-Hackard a large company employed several hundreds of thousands. The company has been around for a long time as its baby boomers employees begin to retire at a rapid rate. It is looking forward a future for offering retirement package for those who meet certain criteria and starting to think about which position need to be filled in the near future to plan for the strategy.    
+Pewlett-Hackard, a large company employed several hundreds of thousands. The company has been around for a long time , its baby boomers employees begin to retire at a rapid rate. To plan the stability and future of the company, it needs information who are the employees that they can offer retirement package that meets certain criteria and which position needs to be filled in the near future.    
 
 ## Results:
 
