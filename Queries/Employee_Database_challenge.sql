@@ -23,7 +23,6 @@ SELECT DISTINCT ON (retirement_titles.emp_no) retirement_titles.emp_no,
 retirement_titles.first_name,
 retirement_titles.last_name,
 retirement_titles.title
-
 INTO unique_titles
 FROM retirement_titles
 WHERE to_date = '9999-01-01'
