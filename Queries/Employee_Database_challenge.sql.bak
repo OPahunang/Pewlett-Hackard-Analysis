@@ -65,6 +65,11 @@ ORDER BY emp_no;
 SELECT * FROM mentorship_eligibility
 
 
--- Total Retiring 
+-- Total Employess Eligible for retirement according to birthdate
 SELECT Count (unique_titles.emp_no)
 FROM unique_titles
+
+
+-- Total Employees Eligible for mentorship
+SELECT COUNT (*) 
+FROM mentorship_eligibility

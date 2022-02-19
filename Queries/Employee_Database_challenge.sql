@@ -42,6 +42,7 @@ ORDER BY COUNT(title) DESC;
 
 SELECT * FROM retiring_titles
 
+-- Delivery 2:
 -- Mentorship Eligibility that holds employees who are eligible
 -- mentorship_eligibilty TABLE
 
